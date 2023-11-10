@@ -507,7 +507,7 @@ li {
   text-align: left;
   top: 250px;
   padding: 30px;
-  width: 600px;
+
   background-color: rgba(0, 0, 0, 0);
 }
 
@@ -520,7 +520,7 @@ li {
 }
 
 .float-left h2 {
-  font-size: 55px;
+  font-size: 35px;
 }
 
 @media only screen and (max-width: 600px) {
