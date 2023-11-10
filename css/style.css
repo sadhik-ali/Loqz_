@@ -4795,7 +4795,7 @@ footer .container-fluid {
 
 .brands {
   margin: 0;
-  border: 1px solid #C7C7C7;
+  border: 1px solid #7D7D7D;
   border-right: 0;
 }
 
@@ -4804,7 +4804,7 @@ footer .container-fluid {
 }
 
 .brand-col {
-  border-right: 1px solid #C7C7C7;
+  border-right: 1px solid #7D7D7D;
   padding: 21px 34px 26px;
   height: 100%;
 }
