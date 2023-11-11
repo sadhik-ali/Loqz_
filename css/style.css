@@ -1305,8 +1305,8 @@ p {
   width: 100%;
   height: 100%;
   border-radius: 30px;
-  background: -webkit-gradient(linear, left top, right top, color-stop(27.92%, #C98663), color-stop(109.42%, #B88689));
-  background: linear-gradient(90deg, #C98663 27.92%, #B88689 109.42%);
+  background: -webkit-gradient(linear, left top, right top, color-stop(27.92%, #c34444), color-stop(109.42%, #b43941));
+  background: linear-gradient(90deg, #b74242 27.92%, #b3555b 109.42%);
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
   border-radius: 30px;
@@ -1317,7 +1317,7 @@ p {
 
 .theme-btn:hover {
   color: #fff;
-  background: #b88769;
+  background: rgb(192, 72, 72);
 }
 
 .theme-btn:hover:before {
@@ -1459,8 +1459,8 @@ button {
 }
 
 .theme-btn.v2 {
-  background: -webkit-gradient(linear, left top, right top, color-stop(27.92%, #C98663), color-stop(109.42%, #B88689));
-  background: linear-gradient(90deg, #C98663 27.92%, #B88689 109.42%);
+  background: -webkit-gradient(linear, left top, right top, color-stop(27.92%, #c96363), color-stop(109.42%, #B88689));
+  background: linear-gradient(90deg, #c96363 27.92%, #b4656a 109.42%);
   color: #fff;
 }
 
@@ -1774,7 +1774,7 @@ header .menu-other-links li .cart-btn .cart-number {
   right: -12px;
   width: 22px;
   height: 22px;
-  background: #B88669;
+  background: #b86969;
   border-radius: 50%;
   line-height: 22px;
   text-align: center;
@@ -3611,7 +3611,7 @@ body.active .overlay-menu .marquee3 {
 }
 
 .cart-items-add .theme-btn:hover {
-  background: #b88769;
+  background: #b86969;
   color: #fff;
 }
 
@@ -3767,8 +3767,8 @@ footer .container-fluid {
   left: 0;
   width: 100%;
   height: 100%;
-  background: -webkit-gradient(linear, left top, right top, color-stop(27.92%, #C98663), color-stop(109.42%, #B88689));
-  background: linear-gradient(90deg, #C98663 27.92%, #B88689 109.42%);
+  background: -webkit-gradient(linear, left top, right top, color-stop(27.92%, #c96363), color-stop(109.42%, #B88689));
+  background: linear-gradient(90deg, #c96363 27.92%, #B88689 109.42%);
   opacity: 0;
   visibility: hidden;
   -webkit-transition: all 0.3s ease;
@@ -4795,7 +4795,7 @@ footer .container-fluid {
 
 .brands {
   margin: 0;
-  border: 1px solid #7D7D7D;
+  border: 1px solid #363636;
   border-right: 0;
 }
 
@@ -4804,7 +4804,7 @@ footer .container-fluid {
 }
 
 .brand-col {
-  border-right: 1px solid #7D7D7D;
+  border-right: 1px solid #363636;
   padding: 21px 34px 26px;
   height: 100%;
 }
@@ -5620,7 +5620,7 @@ footer .container-fluid {
   display: inline-block;
   width: 38px;
   height: 38px;
-  background-color: #B88669;
+  background-color: #b86969;
   border-radius: 50%;
   line-height: 38px;
   text-align: center;
@@ -5869,8 +5869,8 @@ footer .container-fluid {
   width: 100%;
   height: 100%;
   border-radius: 50px;
-  background: -webkit-gradient(linear, left top, right top, color-stop(25.52%, #C98663), to(#B88689));
-  background: linear-gradient(90deg, #C98663 25.52%, #B88689 100%);
+  background: -webkit-gradient(linear, left top, right top, color-stop(25.52%, #c96363), to(#B88689));
+  background: linear-gradient(90deg, #c96363 25.52%, #B88689 100%);
   z-index: -1;
   opacity: 0;
   visibility: hidden;
@@ -5979,7 +5979,7 @@ footer .container-fluid {
 .top-match-section .categories-match-slider .shop-categories-section {
   padding: 0;
   border-bottom: 1px solid #C7C7C7;
-  border-top: 1px solid #C7C7C7;
+  border-top: 1px solid #c7c7c7;
   padding: 30px 0;
 }
 
@@ -6012,7 +6012,7 @@ footer .container-fluid {
 .product-categories-v2 .product-cat {
   padding: 40px;
   text-align: center;
-  border: 1px solid #414141;
+  border: 1px solid #363636;
   position: relative;
   margin-right: -1px;
 }
@@ -6171,9 +6171,9 @@ footer .container-fluid {
 }
 
 .flex-content .theme-btn {
-  background: -webkit-gradient(linear, left top, right top, color-stop(27.92%, #C98663), color-stop(109.42%, #B88689));
-  background: linear-gradient(90deg, #C98663 27.92%, #B88689 109.42%);
-  border: 1px solid #B88669;
+  background: -webkit-gradient(linear, left top, right top, color-stop(27.92%, #cf4d4d), color-stop(109.42%, #893137));
+  background: linear-gradient(90deg, #b63d3d 27.92%, #b7565d 109.42%);
+  border: 1px solid #b86969;
   color: #fff;
 }
 
@@ -7027,7 +7027,7 @@ footer .container-fluid {
   transition: all 0.3s ease;
   -webkit-transform: translateY(25px);
   transform: translateY(25px);
-  background: #B88669;
+  background: #a12f2f;
   color: #fff;
 }
 
