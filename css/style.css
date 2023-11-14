@@ -2745,6 +2745,20 @@ body.active .overlay-menu .marquee3 {
   visibility: visible;
 }
 
+.home {
+  height: 100vh;
+  position: relative;
+}
+
+video {
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  z-index: 1;
+}
+
 .product-categories.v2 .product-cat .product-hover-info {
   position: absolute;
   top: 0;
