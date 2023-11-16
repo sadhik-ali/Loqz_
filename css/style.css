@@ -1305,8 +1305,7 @@ p {
   width: 100%;
   height: 100%;
   border-radius: 30px;
-  background: -webkit-gradient(linear, left top, right top, color-stop(27.92%, #c34444), color-stop(109.42%, #b43941));
-  background: linear-gradient(90deg, #b74242 27.92%, #b3555b 109.42%);
+  background: #ED1A3A;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
   border-radius: 30px;
@@ -1317,7 +1316,7 @@ p {
 
 .theme-btn:hover {
   color: #fff;
-  background: rgb(192, 72, 72);
+  background: rgb(255, 0, 0);
 }
 
 .theme-btn:hover:before {
@@ -1459,8 +1458,7 @@ button {
 }
 
 .theme-btn.v2 {
-  background: -webkit-gradient(linear, left top, right top, color-stop(27.92%, #c96363), color-stop(109.42%, #B88689));
-  background: linear-gradient(90deg, #c96363 27.92%, #b4656a 109.42%);
+  background: #ED1A3A;
   color: #fff;
 }
 
@@ -3630,7 +3628,7 @@ body.active .overlay-menu .marquee3 {
 }
 
 .cart-items-add .theme-btn:hover {
-  background: #b86969;
+  background: #ED1A3A;
   color: #fff;
 }
 
@@ -3786,8 +3784,7 @@ footer .container-fluid {
   left: 0;
   width: 100%;
   height: 100%;
-  background: -webkit-gradient(linear, left top, right top, color-stop(27.92%, #c96363), color-stop(109.42%, #B88689));
-  background: linear-gradient(90deg, #c96363 27.92%, #B88689 109.42%);
+  background: #ED1A3A;
   opacity: 0;
   visibility: hidden;
   -webkit-transition: all 0.3s ease;
@@ -4805,7 +4802,7 @@ footer .container-fluid {
 }
 
 .brand-section {
-  padding: 119px 0 120px;
+  padding: 69px 0 10px;
 }
 
 .brand-section .container {
@@ -13342,4 +13339,10 @@ video::-webkit-media-controls {
   .index5_main .i5_custom_image_gallery_wrapper .custom_img_gall_row .left_image_content .gallery .main-image img {
     padding: 0 11px;
   }
+}
+
+
+.swiper-pagination-bullet {
+  background: #7D7D7D;
+
 }
